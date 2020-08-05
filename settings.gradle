@@ -1,0 +1,3 @@
+rootProject.name='OnboardWalkthrough_Library'
+include ':app'
+include ':onboardwalkthrough'
